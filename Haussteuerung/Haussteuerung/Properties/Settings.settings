@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Haussteuerung.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kitchen_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="kitchen_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="kitchen_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="living_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="living_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="living_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="bathbot_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="bathbot_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="bathbot_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="corridor_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="corridor_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="corridor_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="office_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="office_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="office_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="bathtop_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="bathtop_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="bathtop_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="parents_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="parents_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="parents_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="stefan_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="stefan_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="stefan_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+    <Setting Name="andrea_soll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="andrea_type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="andrea_date" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2018-01-10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
